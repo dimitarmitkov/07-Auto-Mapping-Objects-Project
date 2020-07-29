@@ -1,0 +1,9 @@
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/07/07. Auto-Mapping-Objects-Project/FastFood.Models/bin/Debug/netcoreapp2.1/FastFood.Models.deps.json
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/07/07. Auto-Mapping-Objects-Project/FastFood.Models/bin/Debug/netcoreapp2.1/FastFood.Models.dll
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/07/07. Auto-Mapping-Objects-Project/FastFood.Models/bin/Debug/netcoreapp2.1/FastFood.Models.pdb
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/07/07. Auto-Mapping-Objects-Project/FastFood.Models/obj/Debug/netcoreapp2.1/FastFood.Models.csprojAssemblyReference.cache
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/07/07. Auto-Mapping-Objects-Project/FastFood.Models/obj/Debug/netcoreapp2.1/FastFood.Models.AssemblyInfoInputs.cache
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/07/07. Auto-Mapping-Objects-Project/FastFood.Models/obj/Debug/netcoreapp2.1/FastFood.Models.AssemblyInfo.cs
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/07/07. Auto-Mapping-Objects-Project/FastFood.Models/obj/Debug/netcoreapp2.1/FastFood.Models.csproj.CoreCompileInputs.cache
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/07/07. Auto-Mapping-Objects-Project/FastFood.Models/obj/Debug/netcoreapp2.1/FastFood.Models.dll
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/07/07. Auto-Mapping-Objects-Project/FastFood.Models/obj/Debug/netcoreapp2.1/FastFood.Models.pdb
